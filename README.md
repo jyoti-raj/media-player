@@ -1,6 +1,6 @@
 # meadia_player
 
-A new Flutter project.
+A new Flutter project.Features to be added in future( incomplete application) 
 
 ## Getting Started
 
